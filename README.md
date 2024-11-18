@@ -10,7 +10,8 @@ An intuitive Android application to calculate a person's age based on their date
 
 ## Screenshots
 
-*(Add screenshots of your app here)*
+*![WhatsApp Image 2024-11-11 at 19 45 35_99894206](https://github.com/user-attachments/assets/095c7f88-e590-4763-a58e-f9eef44ba3be)
+*
 
 ## Installation
 
