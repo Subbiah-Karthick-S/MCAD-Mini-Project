@@ -16,54 +16,36 @@ An intuitive Android application to calculate a person's age based on their date
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/age-calculator-app.git
-Open the project in Android Studio.
-Sync the project with Gradle files.
-Build and run the app on your Android device or emulator.
-Technologies Used
-Java: For Android app logic.
-XML: For designing the app UI.
-Android SDK: To build and run the application.
-Files Overview
-Manifest File
+   git clone https://github.com/Subbiah-Karthick-S/age-calculator-app.git
+2.Open the project in Android Studio.
+3.Sync the project with Gradle files.
+4.Build and run the app on your Android device or emulator.
+##Technologies Used
+1.Java: For Android app logic.
+2.XML: For designing the app UI.
+3.Android SDK: To build and run the application.
+##Files Overview
+1.Manifest File
 The AndroidManifest.xml file defines the app's package name, permissions, and activity declarations.
 
-Layout File
+2.Layout File
 The res/layout/activity_main.xml file contains the UI elements like DatePicker, Button, and TextView.
 
-Main Activity
+3.Main Activity
 The src/main/java/com/example/agecalculator/MainActivity.java file contains the logic to calculate and display the age.
 
-How to Use
-Launch the app.
-Select your date of birth from the DatePicker.
-Tap the "Calculate Age" button.
-View your age displayed in years, months, and days.
-Contributing
-Contributions are welcome! Please follow these steps:
+##How to Use
+1.Launch the app.
+2.Select your date of birth from the DatePicker.
+3.Tap the "Calculate Age" button.
+4.View your age displayed in years, months, and days.
 
-Fork the repository.
-Create a feature branch:
-bash
-Copy code
-git checkout -b feature-name
-Commit your changes:
-bash
-Copy code
-git commit -m "Description of changes"
-Push to the branch:
-bash
-Copy code
-git push origin feature-name
-Open a pull request.
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+##Contact
 For any questions or suggestions, feel free to reach out:
 
-Email: your.email@example.com
-GitHub: yourusername
-javascript
-Copy code
+Email: subbiahkarthickcse@gmail.com
+GitHub: Subbiah-Karthick-S
 
