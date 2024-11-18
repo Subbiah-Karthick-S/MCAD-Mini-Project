@@ -49,12 +49,14 @@ The `src/main/java/com/example/agecalculator/MainActivity.java` file contains th
 3. Tap the "Calculate Age" button.
 4. View your age displayed in years, months, and days.
 
-##License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
 
-##Contact
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
 For any questions or suggestions, feel free to reach out:
 
-Email: subbiahkarthickcse@gmail.com
-GitHub: Subbiah-Karthick-S
+- **Email**: [subbiahkarthickcse@gmail.com](mailto:subbiahkarthickcse@gmail.com)  
+- **GitHub**: [Subbiah-Karthick-S](https://github.com/Subbiah-Karthick-S)
 
